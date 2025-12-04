@@ -21,4 +21,4 @@ My GitHub page is https://github.com/LMina143.
     Lab 10, part two was a favorite because it was my first experience working with real data from a CSV file. I learned how to store the information using a vector of vectors and how to loop through the data to compute useful statistics. Calculating population density and finding the highest and lowest values made me think more about algorithms and how to organize data in a meaningful way. It felt rewarding to see the program produce real-world information, and it helped me build confidence in using vectors and multiple source files.
 
 
-fffff
+
